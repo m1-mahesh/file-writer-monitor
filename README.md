@@ -1,6 +1,6 @@
 # file-writer-monitor
 
-1. Create new virtualenv and activate for the projects as i used schedule module(lib) for monitoring files.
+1. Create new virtualenv and activate for the project as i used schedule module(lib) for monitoring files.
 
 > virtualenv -p python3 my-env
 
