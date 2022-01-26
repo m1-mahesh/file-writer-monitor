@@ -4,7 +4,7 @@
 
 > virtualenv -p python3 my-env
 
-2. then install requirements.txt file.
+2. Then install requirements.txt file.
 
 > pip install -r requirements.txt
 
