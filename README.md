@@ -8,6 +8,9 @@
 
 > pip install -r requirements.txt
 
+Or
+> pip install schedule
+
 3. Then run file_generator.py file for generate files with random strings.
 
 > python file_generator.py
